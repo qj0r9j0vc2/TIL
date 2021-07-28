@@ -33,4 +33,5 @@ if modified since와 다르게 etag를 통해 판단하기 때문에 몇 초의 
 
 ![image](https://user-images.githubusercontent.com/59428479/127323167-9b3df509-d11b-485f-be9d-bae8550ce96f.png)
 
+만약 변경되었다고 확인될 시 304 코드를 보내고, 변경되지 않았다면 200ok코드를 보낸다.
 
