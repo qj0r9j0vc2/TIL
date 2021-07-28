@@ -6,6 +6,7 @@ if none match와 if modified since는 http 헤더 중 하나이며, 하는 역�
 
 
 
+
 ## if none match 
 
  이 헤더는 서버에서 리스폰스로 html 파일을 넘길 때 헤더를 통해 엔터티 태그(Etag)를 같이 넘기게 되는데 그 때 넘긴 etag를 클라이언트가 기억하고 있다가 expires 헤더(만료 기간)이 지나서 오래된 파일이 되었다고 판단되었을 때 서버로 if none match 헤더에 가장 최근에 받아왔던 html 파일의 etag를 요청 헤더에 넣어 전송한다. 
