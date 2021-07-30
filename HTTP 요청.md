@@ -1,6 +1,9 @@
 # HTTP STATUS CODE
 
 
+![image](https://user-images.githubusercontent.com/59428479/127666153-67cfebee-abc5-4c50-88be-5f4aeb8ad622.png)
+
+
 
 ## 100 Continue
 
