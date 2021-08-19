@@ -12,3 +12,4 @@ enum으로 선언한 클래스 ex) status와 같은 속성 값을 가져올 수 
 
 
 
+![image](https://user-images.githubusercontent.com/59428479/130083582-3cafd594-c58e-4f4a-8d38-40739c5f268f.png)
